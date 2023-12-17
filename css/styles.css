@@ -13,7 +13,6 @@ body {
     line-height: 1.5;
 }
 
-/* Common styles */
 ul,
 ol {
     list-style-type: none;
@@ -51,7 +50,6 @@ p {
     margin-bottom: 24px;
 }
 
-/* END Common styles */
 
 /* Task 01 */
 #categories {
@@ -84,7 +82,6 @@ p {
     margin-bottom: 8px;
 }
 
-/* END Task 01 */
 
 /* Task 02 */
 .gallery {
@@ -103,11 +100,8 @@ p {
 
 .gallery-image {
     width: 100%;
-    /* width: 360px; */
-    /* height: 300px; */
 }
 
-/* END Task 02 */
 
 /* Task 03 */
 #name-input {
@@ -118,8 +112,6 @@ p {
     padding: 8px 16px;
     margin-bottom: 16px;
 }
-
-/* END Task 03 */
 
 /* Task 04 */
 .login-form {
@@ -138,7 +130,6 @@ p {
 .login-form label:nth-last-child(2) {
     margin-bottom: 16px;
 }
-
 
 .login-form input {
     outline: none;
@@ -174,15 +165,12 @@ p {
     background: #6C8CFF;
 }
 
-/* END Task 04 */
-
 /* Task 05 */
 .widget {
     display: inline-flex;
     flex-direction: column;
     align-items: center;
     gap: 16px;
-    /* width: 345px; */
     padding: 100px 88px;
     border-radius: 8px;
     background: #FFF;
@@ -215,8 +203,6 @@ p {
 .change-color:hover {
     background: #6C8CFF;
 }
-
-/* END Task 05 */
 
 
 /* Task 06 */
@@ -282,5 +268,3 @@ p {
     width: 486px;
     padding: 32px;
 }
-
-/* END Task 06 */
