@@ -51,7 +51,7 @@ p {
 }
 
 
-/* Task 01 */
+/* Task 1 */
 #categories {
     width: 392px;
 }
@@ -83,7 +83,7 @@ p {
 }
 
 
-/* Task 02 */
+/* Task 2 */
 .gallery {
     display: flex;
     justify-content: center;
@@ -103,7 +103,7 @@ p {
 }
 
 
-/* Task 03 */
+/* Task 3 */
 #name-input {
     width: 360px;
     height: 40px;
@@ -113,7 +113,7 @@ p {
     margin-bottom: 16px;
 }
 
-/* Task 04 */
+/* Task 4 */
 .login-form {
     display: flex;
     flex-direction: column;
@@ -157,7 +157,6 @@ p {
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    /* 150% */
     letter-spacing: 0.04em;
 }
 
@@ -165,7 +164,7 @@ p {
     background: #6C8CFF;
 }
 
-/* Task 05 */
+/* Task 5 */
 .widget {
     display: inline-flex;
     flex-direction: column;
@@ -205,7 +204,7 @@ p {
 }
 
 
-/* Task 06 */
+/* Task 6 */
 #controls {
     width: 486px;
     display: flex;
